@@ -35,10 +35,10 @@ dependencies {
      ...
      />
 ```
-> 默认色值，可以参考
+> 官方CardView默认色值，可以参考
 ```Java
 <color name="cardview_shadow_end_color">#03000000</color>
-    <color name="cardview_shadow_start_color">#37000000</color>
+<color name="cardview_shadow_start_color">#37000000</color>
 ```
 
 
